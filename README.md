@@ -1,5 +1,5 @@
 ﻿# SlideView
-滑动拨号和发短信的view，往右滑动拨号，往左是发短信。喜欢的朋友可以看下。
+滑动拨号和发短信的view，往右滑动拨号(底色变绿)，往左是发短信(底色变橘)。滑动过程中top层会逐渐透明，喜欢的朋友可以看下。
 
 ![image](https://github.com/yfchu/SlideView/blob/master/apk/1.gif)   
 ![image](https://github.com/yfchu/SlideView/blob/master/apk/2.png)  
