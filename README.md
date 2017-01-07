@@ -1,8 +1,8 @@
 ﻿# SlideView
 滑动拨号和发短信的view，往右滑动拨号，往左是发短信。喜欢的朋友可以看下。
 
-![image](https://github.com/yfchu/CustomHorizontalScrollview/blob/master/apk/1.gif)   
-![image](https://github.com/yfchu/CustomHorizontalScrollview/blob/master/apk/2.png)  
+![image](https://github.com/yfchu/SlideView/blob/master/apk/1.gif)   
+![image](https://github.com/yfchu/SlideView/blob/master/apk/2.png)  
 ```java  
 	//Maactivity内容:
     protected void onCreate(Bundle savedInstanceState) {
